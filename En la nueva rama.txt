@@ -4,12 +4,6 @@ una mas
 eNTONCES AQUÍ TENEMOS CÓDIGO
 ES FACIL VER EL CÓDIGO
 
-<<<<<<< HEAD
-Aquí nuevo texto
-
-otro cambio
-Este también tiene cambios
-
-=======
 aquí vamos a hacer un cambio
->>>>>>> feature2333
+
+repetimos el cambio
