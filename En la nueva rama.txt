@@ -6,4 +6,9 @@ ES FACIL VER EL CÓDIGO
 
 aquí vamos a hacer un cambio
 
+<<<<<<< HEAD
 repetimos el cambio
+=======
+
+Este cambios debe verse
+>>>>>>> feature2333
